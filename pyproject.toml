@@ -41,7 +41,7 @@ dev = [
     "types-beautifulsoup4",
     "types-python-dateutil",
     "pre-commit>=3.7",
-    "freezegun>=1.5",
+    "freezegun>=1.5.5",
 ]
 
 [project.entry-points."price_tracker.scrapers"]

@@ -134,7 +134,7 @@ docker compose build
 docker compose up -d
 ```
 
-Once the `ghcr.io/SVM-98/price-tracker-bot` image is available (Plan 4 F8 milestone):
+Once the `ghcr.io/svm-98/price-tracker-bot` image is available (Plan 4 F8 milestone):
 
 ```bash
 docker compose pull

@@ -55,5 +55,5 @@ messages.pot
 Thumbs.db
 
 # Planning interni (plan/spec generati durante il lavoro) — MAI nel repo pubblico
-# (incidente infra-leak 2026-06-02: CT/path host/email nei docs/superpowers)
+# internal planning/design docs — not published
 docs/superpowers/

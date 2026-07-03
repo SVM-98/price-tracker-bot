@@ -22,7 +22,7 @@ Open a GitHub Issue using the **Feature request** template. Describe the problem
 ## Development setup
 
 ```bash
-git clone https://github.com/SVM23-B/price-tracker-bot.git
+git clone https://github.com/SAM-V-MARTIN/price-tracker-bot.git
 cd price-tracker-bot
 
 # Recommended: uv venv

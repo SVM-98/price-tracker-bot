@@ -2,9 +2,9 @@
 
 ## Reporting a vulnerability
 
-Please use the [GitHub Private Security Advisory](https://github.com/SVM23-B/price-tracker-bot/security/advisories/new) flow to report vulnerabilities. Do not disclose publicly until a fix is released.
+Please use the [GitHub Private Security Advisory](https://github.com/SAM-V-MARTIN/price-tracker-bot/security/advisories/new) flow to report vulnerabilities. Do not disclose publicly until a fix is released.
 
-If GitHub flow is unavailable, open a private DM to the maintainer on the repository `SVM23-B/price-tracker-bot`.
+If GitHub flow is unavailable, open a private DM to the maintainer on the repository `SAM-V-MARTIN/price-tracker-bot`.
 
 ## Supported versions
 
